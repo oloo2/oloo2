@@ -11,7 +11,7 @@ I am an **AI-Native Product Engineer** who bridges the gap between vision and ex
 
 - 🚀 **Focus Areas:** Rapid Prototyping, API Architecture, Multilingual & Accessible UI
 - 🛠️ **Workflow:** Prompt Engineering, System Design, Iterative Full-Stack Builds
-- 📫 **Contact:** [Email me](foloo@right2sight.org)
+- 📫 **Contact:** [Email me] foloo@right2sight.org
 
 ---
 
