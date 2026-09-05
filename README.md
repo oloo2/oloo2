@@ -1,4 +1,4 @@
-# Hi there, I'm That Kafeeling 👋
+# Hi there, I'm Oloo Otieno 👋
 
 ### **AI-Native Product Engineer & Full-Stack Builder**
 *Building scalable, accessible, and high-impact web applications through clear system architecture, modern product intuition, and AI-assisted workflows.*
