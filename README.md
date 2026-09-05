@@ -37,7 +37,7 @@ Coming from a medical background with zero traditional engineering training, I l
   Emergency medication platform connecting patients to critical supplies with M-PESA integration and real-time logistics tracking.
 
 - **[DadaSpace](https://dadaspace.lovable.app)** — Accessible Multilingual Cycle Tracking Platform  
-  Life cycle tracking (menstruation, pregnancy, menopause) web app featuring native language audio guidance (Kiswahili, Hausa, Amharic).
+  Life cycle tracking (menstruation, pregnancy, menopause) web app featuring native-language audio guidance (Kiswahili, Hausa, Amharic, IsiZulu, Yoruba).
 
 - **[Right 2 Sight](https://right2sight.org)** — Eye Specialist & Rehabilitation Healthcare Platform  
   Full-stack platform for eye care clinic featuring appointment scheduling, optical catalogs, symptom checkers, and AI chat assistant.
