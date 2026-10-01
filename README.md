@@ -39,8 +39,8 @@ Coming from a medical background with zero traditional engineering training, I l
 - **[DadaSpace](https://dadaspace.lovable.app)** — Accessible Multilingual Cycle Tracking Platform  
   Life cycle tracking (menstruation, pregnancy, menopause) web app featuring native-language audio guidance (Kiswahili, Hausa, Amharic, IsiZulu, Yoruba).
 
-- **[Happy Hugs Maker](https://palhcdb.lovable.app)** — AI-Assisted Gift & Experience Builder  
-  Creative gifting platform for designing personalized, memorable experiences and curated surprise packages.
+- **[PalhcDB](https://palhcdb.lovable.app)** — AI-Assisted Palliative & Hospice Resource Directory  
+  palhcDB is a Palliative & Hospice Resource Directory designed for practitioners, patients, and caregivers. The platform provides a personalized dashboard to help users track health metrics, manage medications, and connect with their care team.
 
 - **[Right 2 Sight](https://right2sight.org)** — Eye Specialist & Rehabilitation Healthcare Platform  
   Full-stack platform for eye care clinic featuring appointment scheduling, optical catalogs, symptom checkers, and AI chat assistant.
