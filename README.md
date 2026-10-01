@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-I am a clinician turned **AI-Native Product Engineer**, bridging the gap between frontline healthcare needs and technical execution. By pairing prompt orchestration, AI-assisted development (Cursor, Copilot, LLM workflows), and strong system architecture, I rapidly prototype and deploy high-impact solutions.
+I am a clinician turned **AI-Native Product Engineer**, bridging the gap between frontline healthcare needs and technical execution. By pairing prompt orchestration, AI-assisted development (Cursor, Claude, Copilot, Vibe Coding), and system thinking, I turn real-world clinical pain points into usable, scalable digital products.
 
 Coming from a medical background with zero traditional engineering training, I leverage AI-assisted workflows to move from problem identification to production-ready solutions in weeks—not months.
 
@@ -38,6 +38,9 @@ Coming from a medical background with zero traditional engineering training, I l
 
 - **[DadaSpace](https://dadaspace.lovable.app)** — Accessible Multilingual Cycle Tracking Platform  
   Life cycle tracking (menstruation, pregnancy, menopause) web app featuring native-language audio guidance (Kiswahili, Hausa, Amharic, IsiZulu, Yoruba).
+
+- **[Happy Hugs Maker](https://happy-hugs-maker.lovable.app)** — AI-Assisted Gift & Experience Builder  
+  Creative gifting platform for designing personalized, memorable experiences and curated surprise packages.
 
 - **[Right 2 Sight](https://right2sight.org)** — Eye Specialist & Rehabilitation Healthcare Platform  
   Full-stack platform for eye care clinic featuring appointment scheduling, optical catalogs, symptom checkers, and AI chat assistant.
