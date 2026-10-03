@@ -1,13 +1,13 @@
 # Hi there, I'm Oloo Otieno 👋
 
-### **Clinician & AI-Native Product Engineer**
+### **Clinician & AI-Native Product Developer**
 *Bridging frontline clinical insight with AI-assisted software development to build high-impact healthcare solutions.*
 
 ---
 
 ## 💡 About Me
 
-I am a clinician turned **AI-Native Product Engineer**, bridging the gap between frontline healthcare needs and technical execution. By pairing prompt orchestration, AI-assisted development (Cursor, Claude, Copilot, Vibe Coding), and system thinking, I turn real-world clinical pain points into usable, scalable digital products.
+I am a clinician turned **AI-Native Product Developer**, bridging the gap between frontline healthcare needs and technical execution. By pairing prompt orchestration, AI-assisted development (Cursor, Claude, Copilot, Vibe Coding), and system thinking, I turn real-world clinical pain points into usable, scalable digital products.
 
 Coming from a medical background with zero traditional engineering training, I leverage AI-assisted workflows to move from problem identification to production-ready solutions in weeks—not months.
 
